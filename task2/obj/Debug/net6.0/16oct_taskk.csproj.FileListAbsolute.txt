@@ -1,0 +1,14 @@
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\bin\Debug\net6.0\16oct_taskk.exe
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\bin\Debug\net6.0\16oct_taskk.deps.json
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\bin\Debug\net6.0\16oct_taskk.runtimeconfig.json
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\bin\Debug\net6.0\16oct_taskk.dll
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\bin\Debug\net6.0\16oct_taskk.pdb
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\obj\Debug\net6.0\16oct_taskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\obj\Debug\net6.0\16oct_taskk.AssemblyInfoInputs.cache
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\obj\Debug\net6.0\16oct_taskk.AssemblyInfo.cs
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\obj\Debug\net6.0\16oct_taskk.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\obj\Debug\net6.0\16oct_taskk.dll
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\obj\Debug\net6.0\refint\16oct_taskk.dll
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\obj\Debug\net6.0\16oct_taskk.pdb
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\obj\Debug\net6.0\16oct_taskk.genruntimeconfig.cache
+C:\Users\Work\source\repos\16oct_taskk\16oct_taskk\obj\Debug\net6.0\ref\16oct_taskk.dll
